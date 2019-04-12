@@ -1,7 +1,6 @@
-// YouTube
-USER-AGENT,*YouTube*
-USER-AGENT,*youtube*
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN,youtubei.googleapis.com
-DOMAIN-KEYWORD,youtube
+// Nintendo
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nintendowifi.net
+DOMAIN-SUFFIX,wii.com
+DOMAIN,nintendojp.dl.sc.omtrdc.net
