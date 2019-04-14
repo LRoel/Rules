@@ -33,9 +33,8 @@ dns:
      - ns-a.ustclug.org
      - ns-b.ustclug.org
      - 202.38.93.153
-     - tls://dns.rubyfish.cn:853 # dns over tls
   fallback: # 与 nameserver 内的服务器列表同时发起请求，当规则符合 GEOIP 在 CN 以外时，fallback 列表内的域名服务器生效。
-     - tls://dns.rubyfish.cn:853
+     - tls://1.1.1.1:853
      - tls://dns.google
 
 # clash DNS 请求逻辑：
