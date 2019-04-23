@@ -107,14 +107,6 @@ USER-AGENT,skygo*
 DOMAIN-SUFFIX,sky.com
 DOMAIN-SUFFIX,skygo.co.nz
 
-// YouTube
-USER-AGENT,*YouTube*
-USER-AGENT,*youtube*
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN,youtubei.googleapis.com
-DOMAIN-KEYWORD,youtube
-
 // Viu
 USER-AGENT,Viu*
 DOMAIN-SUFFIX,viu.com
