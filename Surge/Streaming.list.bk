@@ -78,6 +78,15 @@ DOMAIN-KEYWORD,rthklive
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,mytvsuper.com
 
+// Netflix
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net
+
 // Now E
 USER-AGENT,PCCW*
 DOMAIN-SUFFIX,nowe.com
